@@ -32,6 +32,8 @@ Users upload their resume as a PDF. The document is parsed on-device to extract 
   "experience": "2 years at XYZ Inc."
 }
 ```
+## Demo Video: https://drive.google.com/file/d/1mU8BkM-G8QpwkADeRse21fothzjwQPQm/view?usp=sharing
+
 # Future Flow (Coming Soon)
 
 Resume will be matched against job postings via ML-based relevance scoring
