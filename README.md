@@ -8,9 +8,9 @@ A decentralized web application that allows users to upload their resumes, extra
 
 ✅ Real-time PDF parsing and structured JSON generation
 
-🔜 AI-powered job matching system (in progress)
+✅ AI-powered job matching system (in progress)
 
-🔜 Smart contract integration for decentralized resume verification
+✅ Smart contract integration for decentralized resume verification
 
 # Tech Stack
 Frontend    Backend (planned)    Misc
@@ -23,7 +23,7 @@ Users connect their MetaMask wallet to authenticate.
 
 Upload Resume
 Users upload their resume as a PDF. The document is parsed on-device to extract structured information like:
-
+```json
 {
   "name": "John Doe",
   "email": "john.doe@example.com",
@@ -31,7 +31,7 @@ Users upload their resume as a PDF. The document is parsed on-device to extract 
   "education": "B.Tech in CSE",
   "experience": "2 years at XYZ Inc."
 }
-
+```
 # Future Flow (Coming Soon)
 
 Resume will be matched against job postings via ML-based relevance scoring
